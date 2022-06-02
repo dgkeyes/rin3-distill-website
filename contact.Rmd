@@ -8,4 +8,4 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Email me at david@rfortherestofus.com
+Email me at david@rfortherestofus.com or call me at (503) 395-4385
