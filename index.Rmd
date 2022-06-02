@@ -1,0 +1,17 @@
+---
+title: "Rin3 Distill Website"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+Laboris minim non nisi minim Lorem velit nisi ex eu adipisicing eiusmod officia. Commodo proident aliqua laborum amet aliquip deserunt ipsum ullamco sint non aliquip. Irure anim nisi tempor Lorem. Mollit cupidatat do labore aliqua nostrud exercitation occaecat culpa ea ut incididunt non. In magna adipisicing ipsum fugiat eu veniam aliqua duis magna officia. Labore cupidatat irure nisi sunt do aliqua. Aliqua Lorem dolore tempor. Deserunt officia pariatur velit amet cillum mollit excepteur ullamco ad anim. Duis excepteur commodo ea sunt eu. Ad aliqua dolore veniam fugiat esse veniam.

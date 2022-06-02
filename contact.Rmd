@@ -1,0 +1,11 @@
+---
+title: "Contact"
+description: |
+  How to get in touch with me
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Email me at david@rfortherestofus.com
